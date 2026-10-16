@@ -48,11 +48,6 @@ This sample demonstrates tooltip customization in the Syncfusion [Blazor Maps](h
 dotnet restore
 dotnet run
 ```
-
-## Project Structure
-
-`Client/Pages/Index.razor` — Contains the primary Syncfusion Maps implementation, tooltip configuration, HTML tooltip formatting, template rendering logic, and visual customization settings.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
